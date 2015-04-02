@@ -1,0 +1,31 @@
+{
+  "name": "gulp-dgeni",
+  "version": "0.0.0",
+  "description": "Build extensible documentation using Gulp and Dgeni",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shareworks/gulp-dgeni.git"
+  },
+  "keywords": [
+    "gulp",
+    "dgeni"
+  ],
+  "author": "Raymond Jelierse <raymond@shareworks.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shareworks/gulp-dgeni/issues"
+  },
+  "homepage": "https://github.com/shareworks/gulp-dgeni",
+  "dependencies": {
+    "canonical-path": "0.0.2",
+    "vinyl": "~0.4.6",
+    "through2": "~0.6.3",
+    "lodash": "~3.6.0",
+    "dgeni": "~0.4.1",
+    "dgeni-packages": "~0.10.12"
+  }
+}
