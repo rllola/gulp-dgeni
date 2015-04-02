@@ -1,6 +1,6 @@
 {
   "name": "gulp-dgeni",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Build extensible documentation using Gulp and Dgeni",
   "main": "index.js",
   "scripts": {
